@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 15.0 15.0"
+	enable-background="new 0 0 15.0 15.0"
+	xml:space="preserve">
+<defs>
+	<linearGradient id="fillGrad16" x1="81.410%" y1="33.807%" x2="26.923%" y2="92.675%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(56,56,0);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad17" x1="44.955%" y1="23.337%" x2="40.725%" y2="80.360%">
+   		<stop offset="0.000%" style="stop-color:rgb(136,67,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(81,40,0);stop-opacity:1.000" />
+	</linearGradient>
+
+</defs>
+	<path
+		transform = "rotate(-0.00 7.43 8.55)"
+		fill="url(#fillGrad16)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.525"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M14.54,5.89Q14.54,2.57,10.86,2.35L10.15,2.35Q10.49,9.31,5.12,9.84L1.48,9.89L0.29,11.64Q0.97,14.24,4.52,14.74L6.96,14.74Q14.43,14.06,14.56,8.38L14.54,5.89z"/>
+	<path
+		transform = "rotate(-0.00 11.18 1.36)"
+		fill="url(#fillGrad17)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.525"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M10.15,2.36L9.88,0.24L12.47,0.24L11.77,2.48z"/>
+</svg>

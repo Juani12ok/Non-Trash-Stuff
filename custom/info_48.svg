@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 15.0 15.0"
+	enable-background="new 0 0 15.0 15.0"
+	xml:space="preserve">
+<defs>
+	<linearGradient id="fillGrad0" x1="50.000%" y1="-1.136%" x2="50.000%" y2="80.682%">
+   		<stop offset="0.000%" style="stop-color:rgb(0,0,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(0,0,120);stop-opacity:1.000" />
+	</linearGradient>
+
+<filter id="glow0" x="-200%" y="-200%" width="600%" height="600%" >
+	<feOffset result="offOut" in="SourceGraphic" dx="0.0" dy="0.0" />
+	<feGaussianBlur result="blurOut" in="offOut" stdDeviation="0.39999995" />
+	<feFlood flood-color="#000000" flood-opacity="1.000" result="flood"/>
+	<feComposite in="flood" in2="blurOut" operator="in" result="blendOut0"/>
+	<feBlend in="SourceGraphic" in2="blendOut0" mode="normal" />
+</filter>
+
+	<linearGradient id="fillGrad1" x1="19.318%" y1="26.033%" x2="66.667%" y2="62.190%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(188,188,188);stop-opacity:1.000" />
+	</linearGradient>
+
+<filter id="glow1" x="-200%" y="-200%" width="600%" height="600%" >
+	<feOffset result="offOut" in="SourceGraphic" dx="0.24127164" dy="0.24127164" />
+	<feGaussianBlur result="blurOut" in="offOut" stdDeviation="0.2929727" />
+	<feFlood flood-color="#000000" flood-opacity="1.000" result="flood"/>
+	<feComposite in="flood" in2="blurOut" operator="in" result="blendOut0"/>
+	<feBlend in="SourceGraphic" in2="blendOut0" mode="normal" />
+</filter>
+
+	<linearGradient id="fillGrad2" x1="19.318%" y1="26.033%" x2="66.667%" y2="62.190%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(188,188,188);stop-opacity:1.000" />
+	</linearGradient>
+
+<filter id="glow2" x="-200%" y="-200%" width="600%" height="600%" >
+	<feOffset result="offOut" in="SourceGraphic" dx="0.16293104" dy="0.16293104" />
+	<feGaussianBlur result="blurOut" in="offOut" stdDeviation="0.19784483" />
+	<feFlood flood-color="#000000" flood-opacity="1.000" result="flood"/>
+	<feComposite in="flood" in2="blurOut" operator="in" result="blendOut0"/>
+	<feBlend in="SourceGraphic" in2="blendOut0" mode="normal" />
+</filter>
+
+	<linearGradient id="fillGrad3" x1="34.848%" y1="-103.805%" x2="57.576%" y2="33.152%">
+   		<stop offset="0.000%" style="stop-color:rgb(0,0,120);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(0,0,0);stop-opacity:0.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad4" x1="50.000%" y1="-23.529%" x2="50.000%" y2="84.314%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(255,255,255);stop-opacity:0.000" />
+	</linearGradient>
+
+	<linearGradient id="stkGrad5" x1="49.139%" y1="-0.567%" x2="49.139%" y2="100.683%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(153,153,153);stop-opacity:1.000" />
+	</linearGradient>
+
+</defs>
+	<path
+		transform = "rotate(-0.00 7.24 7.12)"
+		fill="url(#fillGrad0)"
+		stroke="#FFFFFF"
+		fill-opacity="1.0"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.14999999"
+		filter="url(#glow0)"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M7.24,0.45C10.92,0.45,13.91,3.44,13.91,7.12C13.91,10.80,10.92,13.78,7.24,13.78C3.56,13.78,0.57,10.80,0.57,7.12C0.57,3.44,3.56,0.45,7.24,0.45z"/>
+	<path
+		transform = "rotate(-0.00 7.20 8.40)"
+		fill="url(#fillGrad1)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="0.14999999"
+		filter="url(#glow1)"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M6.53,5.10L7.88,5.10A0.23 0.23 0 0 1 8.10,5.33L8.10,11.48A0.23 0.23 0 0 1 7.88,11.70L6.53,11.70A0.23 0.23 0 0 1 6.30,11.48L6.30,5.33A0.23 0.23 0 0 1 6.53,5.10z"/>
+	<path
+		transform = "rotate(-0.00 7.11 3.23)"
+		fill="url(#fillGrad2)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="0.14999999"
+		filter="url(#glow2)"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M7.11,2.07C7.75,2.07,8.28,2.59,8.28,3.23C8.28,3.88,7.75,4.40,7.11,4.40C6.47,4.40,5.95,3.88,5.95,3.23C5.95,2.59,6.47,2.07,7.11,2.07z"/>
+	<path
+		transform = "rotate(-26.64 7.24 7.12)"
+		fill="url(#fillGrad3)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="0.14999999"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M0.62,7.94A6.67 6.67 -0.00 0 0 13.86,7.94"/>
+	<path
+		transform = "rotate(-0.00 7.24 3.37)"
+		fill="url(#fillGrad4)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="0.14999999"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M7.24,1.12C9.45,1.12,11.24,2.12,11.24,3.37C11.24,4.61,9.45,5.62,7.24,5.62C5.03,5.62,3.24,4.61,3.24,3.37C3.24,2.12,5.03,1.12,7.24,1.12z"/>
+	<path
+		transform = "rotate(-0.00 7.24 7.12)"
+		fill="#000000"
+		stroke="url(#stkGrad5)"
+		fill-opacity="0.000"
+		stroke-opacity="1.0"
+		fill-rule="nonzero"
+		stroke-width="0.14999999"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M7.24,0.45C10.92,0.45,13.91,3.44,13.91,7.12C13.91,10.80,10.92,13.78,7.24,13.78C3.56,13.78,0.57,10.80,0.57,7.12C0.57,3.44,3.56,0.45,7.24,0.45z"/>
+</svg>
